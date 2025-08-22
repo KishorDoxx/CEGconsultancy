@@ -652,6 +652,16 @@ p {
     margin-bottom: 1rem;
 }
 
+.country-flag .flag-image {
+    width: 120px;
+    height: 90px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+    border: 2px solid #e2e8f0;
+}
+
 .country-card h3 {
     text-align: center;
     color: #1e293b;
